@@ -1,0 +1,9 @@
+psutil module for finding battery charge;
+psutil is a cross-platform library for retrievinginformation onrunning processes and
+system utilization (CPU, memory, disks, network)in Python.
+https://pypi.python.org/pypi/psutil
+/----------------------------------------------------------------------------------/
+pyttsx3 library;
+An OFFLINE Python Text to Speech library (TTS) which works for both python3 and python2.
+https://pypi.python.org/pypi/pyttsx3/2.6
+/----------------------------------------------------------------------------------/
